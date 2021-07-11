@@ -1,5 +1,6 @@
 # 翻墙软件指南，中国VPN推荐2020
-最后修改于： `2020年3月3日`
+
+**最新信息请查看原文地址：https://github.com/vpnforchina/vpnforchina.github.io
 
 ## 翻墙软件现状
 
